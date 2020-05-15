@@ -1,0 +1,82 @@
+body {
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+  }
+  h1 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 100;
+    font-size:         36px;
+  }
+  h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size:         20px;
+  }
+  .container {
+    height: 200px;
+    position: relative;
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  table {
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+    background: black;
+    color: white;
+    padding-right: 90px;
+    padding-left: 90px;
+  }
+  .social {
+    color: white;
+    text-align: right;
+    width: 400px;
+    color: white;
+    margin: 60px;
+  
+  }
+  .cel {
+    text-align: left;
+    margin: 20px 20px 20px 20px;
+    width: 70%;
+    color: white;
+  }
+  ul {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 100;
+  }
+  a:link {
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+  }
+  
+  a:active {
+    text-decoration: none;
+    color: black;
+  }
